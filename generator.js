@@ -4,6 +4,11 @@ function* number(){
 }
 
 // output
+/* 
+when first time next is called then code is executed till the point it gets the first yield.
+
+
+*/
 
 /* 
 const hello = number()
